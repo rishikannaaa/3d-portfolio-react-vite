@@ -18,7 +18,7 @@ Welcome to my **3D Developer Portfolio** built using **React**, **Vite**, and **
 
 | Home Section | About Section | Contact Form |
 |--------------|----------------|--------------|
-| ![Home](./screenshots/home.png) | ![About](./screenshots/about.png) | ![Contact](./screenshots/contact.png) |
+| ![Home](./home.png) | ![About](./screenshots/about.png) | ![Contact](./screenshots/contact.png) |
 
 > 💡 Make sure to place your screenshots in the `screenshots/` folder.
 
